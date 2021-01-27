@@ -1,0 +1,12 @@
+{
+    "ProfileCommandDescription": "Permet d'afficher son **profil** afin de voir son **niveau** ou ses **ressources**.",
+    "WorksCommandDescription": "Permet de partir **travailler** afin de ramener des **ressources** en fonction de son métier. Disponible **1** fois par **heure**",
+    "InviteCommandDescription": "Permet d'obtenir la liste des liens utiles relatifs au bot.",
+    "MarketCommandDescription": "Affiche les offres du **marché** afin que vous puissiez **acheter** des **ressources**",
+    "PingCommandDescription": "Affiche le **ping** du bot.",
+    "TopCommandDescription": "Affiche les **meilleurs joueurs** dans différents domaines..",
+    "BuildCommandDescription": "Permet de construire des bâtiments afin de **générer de l'éléctricité**.",
+    "WalkCommandDescription": "Permet de faire une balade une fois toutes les **15 minutes** pour récupérer un peu de **ressources**.",
+    "PrefixCommandDescription": "Permet de changer le **prefix** du serveur.",
+    "TradeCommandDescription": "Vous permet d'**échanger** des **ressources** avec d'autres **joueurs**."
+}
